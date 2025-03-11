@@ -3,7 +3,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=joyal-george-kj&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <a href="https://twitter.com/joyalgeorgekj"><img src="https://img.shields.io/twitter/follow/joyalgeorgekj?logo=twitter&style=for-the-badge" alt="Twitter Follow" /></a>
 </p>
 
 ---
