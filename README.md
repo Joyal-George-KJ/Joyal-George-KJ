@@ -8,10 +8,12 @@
 ---
 
 ## 🚀 About Me  
-🔹 Passionate **Frontend Developer** with expertise in **React JS & Tailwind CSS**  
-🔹 Using **Appwrite** for **Backend-as-a-Service (BaaS)** – Authentication, Database & Cloud Functions  
-🔹 Currently **learning Next.js & TypeScript** to level up my skills  
-🔹 Open to **frontend job opportunities** while working on exciting projects  
+ - 🔹 Passionate **Frontend Developer** with expertise in **React JS & Tailwind CSS**. 
+ - 🔹 Using **Appwrite** for **Backend-as-a-Service (BaaS)** – Authentication, Database & Cloud Functions.
+ - 🔹 ~Currently~ Finished **learning Next.js & TypeScript** – Level up my skills.
+ - 🔹 Tech Stack: React.js, Tailwind CSS, TypeScript, Appwrite, Node.js, Express JS.
+ - 🔹 First-time NPM package publisher: `markdown-input-display`. 
+ - 🔹 Open to **collaborations & frontend opportunities**.
 
 ---
 
@@ -35,9 +37,10 @@
 |--------------|-------------|------|
 | **CouponShare**  | A platform to **share and find discount coupons** powered by **Appwrite backend** | [🔗 GitHub](https://github.com/Joyal-George-KJ/CouponShare) |
 | **TaskFlow** | A **task management app** built with **React & Appwrite** | [🔗 GitHub](https://github.com/Joyal-George-KJ/Task-Flow) |
-| **EpicLibrary** | A **book collection app** built with React & Tailwind | [🔗 GitHub](https://github.com/Joyal-George-KJ/EpicLibrary) |
-| **EquationCalculator** | A **powerful equation solver** built using React | [🔗 GitHub](https://github.com/Joyal-George-KJ/EquationCalculator) |
+| **EpicLibrary** | A **book collection app** built with **React & Tailwind** | [🔗 GitHub](https://github.com/Joyal-George-KJ/EpicLibrary) |
+| **EquationCalculator** | A **powerful equation solver** built using **React** | [🔗 GitHub](https://github.com/Joyal-George-KJ/EquationCalculator) |
 | **Portfolio** | My **personal portfolio website** showcasing my work | [🔗 GitHub](https://github.com/Joyal-George-KJ/portfolio) |
+| **markdown-input-display** | A **Markdown Editor** built using **TypeScript, NPM & JSX** | [🔗 GitHub](https://github.com/Joyal-George-KJ/markdown-input-display) |
 
 ---
 
