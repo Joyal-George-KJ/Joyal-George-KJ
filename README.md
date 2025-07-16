@@ -99,4 +99,4 @@ Looking for frontend or native app roles, OSS collaborations, or freelance gigs 
 
 ---
 
-> _“Coding is not just my skill, it’s my story.”_ — Joyal G K J
+> _“Coding is not just my skill, it’s my story.”_ — Joyal George K J
