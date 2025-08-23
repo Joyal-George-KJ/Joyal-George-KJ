@@ -59,9 +59,9 @@ From Android terminal hacking in 7th grade to building real-world tools after co
 
 | Project | Description | Link |
 |---------|-------------|------|
-| Appwrite | Backend-as-a-Service platform | [GitHub](https://github.com/appwrite/appwrite) |
-| React-Bits | Useful React tips & patterns | [GitHub](https://github.com/vasanthk/react-bits) |
-| DevFind | Dev profiles discovery tool | [GitHub](https://github.com/TheGautamJha/DevFind) |
+| Appwrite | Backend-as-a-Service platform | [GitHub](https://github.com/appwrite/console) |
+| React-Bits | Useful React tips & patterns | [GitHub](https://github.com/DavidHDev/react-bits) |
+| DevFind | Dev profiles discovery tool | [GitHub](https://github.com/shyamtawli/devFind) |
 
 ---
 
