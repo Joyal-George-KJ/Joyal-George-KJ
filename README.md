@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Joyal George K J</h1>
-<h3 align="center">- Web and Native App Developer | React JS and React Native | Firebase and Appwrite | OSS Contributor -<br> - Entrepreneur in the Making -</h3>
+<h3 align="center">Web & Native App Developer | React, React Native, Firebase, Appwrite | OSS Contributor</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=joyal-george-kj&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -9,17 +9,16 @@
 
 ## ✨ About Me
 
-From Android terminal hacking in 7th grade to building real-world tools after college — I'm Joyal, a self-taught developer who builds with intention and impact.
+I'm Joyal — a developer who turns ideas into tools people actually use.  
+My journey started in 7th grade with Android terminal hacking, took a detour into priesthood, and came back full-circle into tech — stronger and more determined.
 
-- 💻 Frontend & Native App Developer focused on React JS, React Native, Firebase & Appwrite.
-- ⛪ Took a detour into priesthood, then came back and pursued CS with full passion.
-- 🔥 Discovered C++ during COVID and quickly became the top CS student in BCA.
-- 🥇 Won a Web Design competition against college students who has experience.
-- 💸 Worked as a fuel attendant to fund my dream after my laptop broke — bought a new one and came back stronger in 2025.
-- 🛠️ Built projects using modern stacks and even made a pump sales calculator for my offline workplace.
-- 🌐 Rebuilt my final project using React + Appwrite, and launched multiple public apps.
-- 📦 Published [markdown-input-display](https://www.npmjs.com/package/markdown-input-display) — hit 1000+ downloads in the first week!
-- 💡 Want to build tools that help others and someday launch my own product/startup.
+- 💻 Specializing in **React JS, React Native, Firebase, and Appwrite**  
+- 🚀 Built and deployed apps solving real-world problems (e.g., pump sales calculator at workplace)  
+- 📦 Published [markdown-input-display](https://www.npmjs.com/package/markdown-input-display) — 1000+ downloads in the first week  
+- 🏆 Web Design Competition 1st Prize  
+- 🔧 Contributor to open source projects ([Appwrite Console](https://github.com/appwrite/console), [React Bits](https://github.com/DavidHDev/react-bits))  
+- 💼 Worked as a fuel attendant to fund my coding comeback — resilience in action  
+- 🧑‍🏫 Mentored peers and teachers in CS during BCA
 
 ---
 
@@ -99,4 +98,4 @@ Looking for frontend or native app roles, OSS collaborations, or freelance gigs 
 
 ---
 
-> _“Coding is not just my skill, it’s my story.”_ — Joyal George K J
+**“Coding is not just my skill, it’s my story.” — Joyal George K J**
