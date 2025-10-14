@@ -76,8 +76,8 @@ My journey started in 7th grade with Android terminal hacking, took a detour int
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=joyal-george-kj&show_icons=true&theme=tokyonight" alt="Joyal's GitHub Stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joyal-george-kj&show_icons=true&locale=en&layout=compact" alt="joyal-george-kj" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=joyalgeorgekj&show_icons=true&theme=tokyonight" alt="Joyal's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joyalgeorgekj&show_icons=true&locale=en&layout=compact" alt="joyal-george-kj" />
 </p>
 
 ---
