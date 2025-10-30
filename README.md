@@ -22,6 +22,10 @@ My journey started in 7th grade with Android terminal hacking, took a detour int
 
 ---
 
+## 🥇 Badges
+
+[![An image of @joyalgeorgekj's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/joyalgeorgekj)](https://holopin.io/@joyalgeorgekj)
+
 ## 🛠️ Tech Stack
 
 <p align="left">
