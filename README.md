@@ -16,7 +16,7 @@ My journey started in 7th grade with Android terminal hacking, took a detour int
 - 🚀 Built and deployed apps solving real-world problems (e.g., pump sales calculator at workplace)  
 - 📦 Published [markdown-input-display](https://www.npmjs.com/package/markdown-input-display) — 1000+ downloads in the first week  
 - 🏆 Web Design Competition 1st Prize  
-- 🔧 Contributor to open source projects ([Appwrite Console](https://github.com/appwrite/console), [React Bits](https://github.com/DavidHDev/react-bits)), [Docker Docs](https://github.com/docker/docs))  
+- 🔧 Contributor to open source projects [Appwrite Console](https://github.com/appwrite/console), [React Bits](https://github.com/DavidHDev/react-bits), [Docker Docs](https://github.com/docker/docs))  
 - 💼 Worked as a fuel attendant to fund my coding comeback — resilience in action  
 - 🧑‍🏫 Mentored peers and teachers in CS during BCA
 
