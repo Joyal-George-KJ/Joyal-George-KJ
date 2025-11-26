@@ -52,15 +52,15 @@ My journey started in 7th grade with Android terminal hacking, took a detour int
 - 📦 NPM package hit 1000+ downloads in week one  
 - 🔧 Built and deployed multiple tools used in real-life workflow  
 - 💼 Worked full-time job to fund coding comeback — never gave up
-
+<!--
 ---
 
-## 📈 GitHub Stats
+ ## 📈 GitHub Stats
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=joyalgeorgekj&show_icons=true&theme=tokyonight" alt="Joyal's GitHub Stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joyalgeorgekj&show_icons=true&locale=en&layout=compact" alt="joyal-george-kj" />
-</p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joyalgeorgekj&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="joyal-george-kj" />
+</p> -->
 
 ---
 
