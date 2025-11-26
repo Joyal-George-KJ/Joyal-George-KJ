@@ -9,16 +9,18 @@
 
 ## ✨ About Me
 
-I'm Joyal — a developer who turns ideas into tools people actually use.  
-My journey started in 7th grade with Android terminal hacking, took a detour into priesthood, and came back full-circle into tech — stronger and more determined.
+I'm Joyal, a developer who turns ideas into tools people actually use.  
+My journey started in 7th grade with Android terminal hacking, took a detour into priesthood, and came back full-circle into tech, stronger and more determined.
 
 - 💻 Specializing in **React JS, React Native, Firebase, and Appwrite**  
 - 🚀 Built and deployed apps solving real-world problems (e.g., pump sales calculator at workplace)  
-- 📦 Published [markdown-input-display](https://www.npmjs.com/package/markdown-input-display) — 1000+ downloads in the first week  
+- 📦 Published [markdown-input-display](https://www.npmjs.com/package/markdown-input-display) - 1000+ downloads in the first week  
 - 🏆 Web Design Competition 1st Prize  
 - 🔧 Contributor to open source projects [Appwrite Console](https://github.com/appwrite/console), [React Bits](https://github.com/DavidHDev/react-bits), [Docker Docs](https://github.com/docker/docs) 
-- 💼 Worked as a fuel attendant to fund my coding comeback — resilience in action  
+- 💼 Worked as a fuel attendant to fund my coding comeback - resilience in action  
 - 🧑‍🏫 Mentored peers and teachers in CS during BCA
+
+**Looking for frontend or native app roles, OSS collaborations, or freelance gigs, if you’re building something exciting, let’s connect and make it awesome together.**
 
 ---
 
@@ -58,10 +60,5 @@ My journey started in 7th grade with Android terminal hacking, took a detour int
 
 ---
 
-## 🚀 Let’s Build Something Great
 
-**Looking for frontend or native app roles, OSS collaborations, or freelance gigs — if you’re building something exciting, let’s connect and make it awesome together.**
-
----
-
-**“Coding is not just my skill, it’s my story.” — Joyal George K J**
+<h3 align="center">“Coding is not just my skill, it’s my story.” - Joyal George K J</h3>
