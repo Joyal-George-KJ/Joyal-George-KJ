@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Joyal George K J</h1>
-<h3 align="center">Web & Native App Developer | React, React Native, Firebase, Appwrite | OSS Contributor</h3>
+<h3 align="center">Web & Native App Developer | Javscript & Typescript | React, React Native, Firebase, Appwrite | OSS Contributor</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=joyal-george-kj&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -16,16 +16,11 @@ My journey started in 7th grade with Android terminal hacking, took a detour int
 - 🚀 Built and deployed apps solving real-world problems (e.g., pump sales calculator at workplace)  
 - 📦 Published [markdown-input-display](https://www.npmjs.com/package/markdown-input-display) — 1000+ downloads in the first week  
 - 🏆 Web Design Competition 1st Prize  
-- 🔧 Contributor to open source projects [Appwrite Console](https://github.com/appwrite/console), [React Bits](https://github.com/DavidHDev/react-bits), [Docker Docs](https://github.com/docker/docs))  
+- 🔧 Contributor to open source projects [Appwrite Console](https://github.com/appwrite/console), [React Bits](https://github.com/DavidHDev/react-bits), [Docker Docs](https://github.com/docker/docs) 
 - 💼 Worked as a fuel attendant to fund my coding comeback — resilience in action  
 - 🧑‍🏫 Mentored peers and teachers in CS during BCA
 
 ---
-
-## 🥇 Badges
-
-[![An image of @joyalgeorgekj's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/joyalgeorgekj)](https://holopin.io/@joyalgeorgekj)
-[![An image of @joyalgeorgekj's Codewars badges](https://www.codewars.com/users/joyalgeorgekj/badges/large)](https://www.codewars.com/users/joyalgeorgekj)
 
 ## 🛠️ Tech Stack
 
@@ -43,6 +38,13 @@ My journey started in 7th grade with Android terminal hacking, took a detour int
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
+
+---
+
+## 🥇 Badges
+
+[![An image of @joyalgeorgekj's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/joyalgeorgekj)](https://holopin.io/@joyalgeorgekj)
+[![An image of @joyalgeorgekj's Codewars badges](https://www.codewars.com/users/joyalgeorgekj/badges/large)](https://www.codewars.com/users/joyalgeorgekj)
 
 ---
 
