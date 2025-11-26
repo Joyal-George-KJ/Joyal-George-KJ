@@ -48,6 +48,16 @@ My journey started in 7th grade with Android terminal hacking, took a detour int
 [![An image of @joyalgeorgekj's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/joyalgeorgekj)](https://holopin.io/@joyalgeorgekj)
 [![An image of @joyalgeorgekj's Codewars badges](https://www.codewars.com/users/joyalgeorgekj/badges/large)](https://www.codewars.com/users/joyalgeorgekj)
 
+---
+
+## 🎧 Now Listening
+
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31d7veximtzg7v4ya6kipwrjjpgm&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31d7veximtzg7v4ya6kipwrjjpgm&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=53b14f&bar_color_cover=false">
+  </a>
+</p>
+
 <!--
 ---
 
