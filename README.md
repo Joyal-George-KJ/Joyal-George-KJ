@@ -16,7 +16,7 @@ My journey started in 7th grade with Android terminal hacking, took a detour int
 - 🚀 Built and deployed apps solving real-world problems (e.g., pump sales calculator at workplace)  
 - 📦 Published [markdown-input-display](https://www.npmjs.com/package/markdown-input-display) — 1000+ downloads in the first week  
 - 🏆 Web Design Competition 1st Prize  
-- 🔧 Contributor to open source projects ([Appwrite Console](https://github.com/appwrite/console), [React Bits](https://github.com/DavidHDev/react-bits))  
+- 🔧 Contributor to open source projects ([Appwrite Console](https://github.com/appwrite/console), [React Bits](https://github.com/DavidHDev/react-bits)), [Docker Docs](https://github.com/docker/docs))  
 - 💼 Worked as a fuel attendant to fund my coding comeback — resilience in action  
 - 🧑‍🏫 Mentored peers and teachers in CS during BCA
 
@@ -43,29 +43,6 @@ My journey started in 7th grade with Android terminal hacking, took a detour int
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Link |
-|--------|-------------|------|
-| CouponShare | Share and discover discount coupons. Built with Appwrite backend. | [🔗 GitHub](https://github.com/Joyal-George-KJ/CouponShare) |
-| TaskFlow | A task tracker built with React & Appwrite. | [🔗 GitHub](https://github.com/Joyal-George-KJ/Task-Flow) |
-| EpicLibrary | Manage and display book collections with React & Tailwind. | [🔗 GitHub](https://github.com/Joyal-George-KJ/EpicLibrary) |
-| EquationCalculator | A React-powered equation solver app. | [🔗 GitHub](https://github.com/Joyal-George-KJ/EquationCalculator) |
-| Portfolio | My personal portfolio website. | [🔗 GitHub](https://github.com/Joyal-George-KJ/portfolio) |
-| markdown-input-display | Markdown editor/converter (NPM package). | [🔗 GitHub](https://github.com/Joyal-George-KJ/markdown-input-display) |
-
----
-
-## 🌍 Open Source Contributions
-
-| Project | Description | Link |
-|---------|-------------|------|
-| Appwrite | Backend-as-a-Service platform | [GitHub](https://github.com/appwrite/console) |
-| React-Bits | Useful React tips & patterns | [GitHub](https://github.com/DavidHDev/react-bits) |
-| DevFind | Dev profiles discovery tool | [GitHub](https://github.com/shyamtawli/devFind) |
 
 ---
 
