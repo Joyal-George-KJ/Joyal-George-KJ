@@ -46,14 +46,6 @@ My journey started in 7th grade with Android terminal hacking, took a detour int
 [![An image of @joyalgeorgekj's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/joyalgeorgekj)](https://holopin.io/@joyalgeorgekj)
 [![An image of @joyalgeorgekj's Codewars badges](https://www.codewars.com/users/joyalgeorgekj/badges/large)](https://www.codewars.com/users/joyalgeorgekj)
 
----
-
-## 🌟 Achievements
-- 🥇 Winner, Web Design Competition (2024)  
-- 🧑‍🏫 Mentored classmates and teachers in CS  
-- 📦 NPM package hit 1000+ downloads in week one  
-- 🔧 Built and deployed multiple tools used in real-life workflow  
-- 💼 Worked full-time job to fund coding comeback — never gave up
 <!--
 ---
 
@@ -66,19 +58,9 @@ My journey started in 7th grade with Android terminal hacking, took a detour int
 
 ---
 
-## 💬 Let’s Connect!
-
-- 📷 Instagram: [@joyalgeorgekj](https://instagram.com/joyalgeorgekj)
-- 💼 LinkedIn: [Joyal George K J](https://linkedin.com/in/joyalgeorgekj)  
-- 📬 Email: [joyalgeorgekj@gmail.com](mailto:joyalgeorgekj@gmail.com)  
-- 🌍 Website: [joyalgeorgekj.com](https://joyalgeorgekj.com)  
-- 🐦 Twitter: [@joyalgeorgekj](https://twitter.com/joyalgeorgekj)  
-
----
-
 ## 🚀 Let’s Build Something Great
 
-Looking for frontend or native app roles, OSS collaborations, or freelance gigs — if you’re building something exciting, let’s connect and make it awesome together.
+**Looking for frontend or native app roles, OSS collaborations, or freelance gigs — if you’re building something exciting, let’s connect and make it awesome together.**
 
 ---
 
