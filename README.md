@@ -1,10 +1,6 @@
 <h1 align="center">Hey 👋, I'm Joyal George K J</h1>
 <h3 align="center">Web & Native App Developer | Javscript & Typescript | React, React Native, Firebase, Appwrite | OSS Contributor</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=joyal-george-kj&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
 ---
 
 ## ✨ About Me
