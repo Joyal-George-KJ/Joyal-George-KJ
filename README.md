@@ -1,22 +1,55 @@
 <h1 align="center">Hey 👋, I'm Joyal George K J</h1>
-<h3 align="center">Web & Native App Developer | Javscript & Typescript | React, React Native, Firebase, Appwrite | OSS Contributor</h3>
+<h3 align="center">Self-Taught React & Next.js Engineer • OSS Contributor • Builder of Practical Tools</h3>
 
 ---
 
 ## ✨ About Me
 
-I'm Joyal, a developer who turns ideas into tools people actually use.  
-My journey started in 7th grade with Android terminal hacking, took a detour into priesthood, and came back full-circle into tech, stronger and more determined.
+I build things that solve problems. My path wasn’t linear — I learned code on my own, worked non-tech jobs to stay afloat, and kept shipping software on the side. That mix of persistence and curiosity shaped how I work today: fast, practical, and grounded in real use.
 
-- 💻 Specializing in **React JS, React Native, Firebase, and Appwrite**  
-- 🚀 Built and deployed apps solving real-world problems (e.g., pump sales calculator at workplace)  
-- 📦 Published [markdown-input-display](https://www.npmjs.com/package/markdown-input-display) - 1000+ downloads in the first week  
-- 🏆 Web Design Competition 1st Prize  
-- 🔧 Contributor to open source projects [Appwrite Console](https://github.com/appwrite/console), [React Bits](https://github.com/DavidHDev/react-bits), [Docker Docs](https://github.com/docker/docs) 
-- 💼 Worked as a fuel attendant to fund my coding comeback - resilience in action  
-- 🧑‍🏫 Mentored peers and teachers in CS during BCA
+I’m strongest when the codebase is unfamiliar and the bug is buried somewhere nobody has looked yet.  
+I read, dissect, debug, and ship clean fixes — quickly.
 
-**Looking for frontend or native app roles, OSS collaborations, or freelance gigs, if you’re building something exciting, let’s connect and make it awesome together.**
+- Focused on **React, Next.js, TypeScript**, and straightforward architectures  
+- Build tools, internal apps, and full-stack projects that prioritize clarity over complexity  
+- Developed and published **NPM packages** used in real workflows  
+- Shipped small but useful tools at workplaces (like a pump-sales calculator)  
+- Worked non-tech jobs while rebuilding my career in software — the grit stayed, and so did the momentum
+
+---
+
+## 🧩 What I Do
+
+- Build production-ready UIs and full-stack features  
+- Design practical system flows, not over-engineered ones  
+- Create internal tools and developer utilities  
+- Contribute to open-source projects I rely on  
+- Debug fast: understand unfamiliar logic, trace breakpoints, and fix things without drama
+
+---
+
+## 🌱 Open Source Work
+
+I contribute to projects that shape my day-to-day workflow:
+
+- **Appwrite** — console, docs, and ecosystem improvements  
+- **Docker Docs & BuildKit** — documentation fixes and contributions around dev experience  
+- **React Bits** — patterns, examples, and refinements  
+- **Self.so** — cleanup and enhancements  
+- Plus many small contributions across projects I use
+
+Open source is where I sharpen my ability to read code written by many minds.
+
+---
+
+## 🔧 Notable Projects
+
+- **NPM Packages** — Markdown utilities and workflow helpers  
+- **Internal Tools** — dashboards, automation scripts, and practical utilities for real workplaces  
+- **Full-Stack Apps** — auth, CRUD, API layers, and production-ready UI  
+- **Everyday Tools** — small things that remove friction and save time
+
+I aim for tools that feel obvious once you use them.
 
 ---
 
@@ -26,13 +59,13 @@ My journey started in 7th grade with Android terminal hacking, took a detour int
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
@@ -41,7 +74,7 @@ My journey started in 7th grade with Android terminal hacking, took a detour int
 
 ## 🥇 Badges
 
-[![An image of @joyalgeorgekj's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/joyalgeorgekj)](https://holopin.io/@joyalgeorgekj)
+[![An image of @joyalgeorgekj's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/joyalgeorgekj)](https://holopin.io/@joyalgeorgekj)  
 [![An image of @joyalgeorgekj's Codewars badges](https://www.codewars.com/users/joyalgeorgekj/badges/large)](https://www.codewars.com/users/joyalgeorgekj)
 
 ---
@@ -54,17 +87,6 @@ My journey started in 7th grade with Android terminal hacking, took a detour int
   </a>
 </p>
 
-<!--
 ---
 
- ## 📈 GitHub Stats
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=joyalgeorgekj&show_icons=true&theme=tokyonight" alt="Joyal's GitHub Stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joyalgeorgekj&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="joyal-george-kj" />
-</p> -->
-
----
-
-
-<h3 align="center">“Coding is not just my skill, it’s my story.” - Joyal George K J</h3>
+<h3 align="center">“I build things that make sense — simple, reliable, and useful.”</h3>
