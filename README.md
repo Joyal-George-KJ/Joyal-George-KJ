@@ -1,5 +1,6 @@
 <h1 align="center">Hey 👋, I'm Joyal George K J</h1>
-<h3 align="center">Self-Taught React & Next.js Engineer • OSS Contributor • Builder of Practical Tools</h3>
+<h3 align="center">Self-Taught React & Next.js Engineer | OSS Contributor | Builder of Practical Tools</h3>
+<p align="center">Looking for frontend, Typescript based roles, OSS collaborations, or freelance gigs, if you’re building something exciting, let’s connect and make it awesome together.</p>
 
 ---
 
@@ -42,30 +43,19 @@ Open source is where I sharpen my ability to read code written by many minds.
 
 ---
 
-## 🔧 Notable Projects
-
-- **NPM Packages** — Markdown utilities and workflow helpers  
-- **Internal Tools** — dashboards, automation scripts, and practical utilities for real workplaces  
-- **Full-Stack Apps** — auth, CRUD, API layers, and production-ready UI  
-- **Everyday Tools** — small things that remove friction and save time
-
-I aim for tools that feel obvious once you use them.
-
----
-
 ## 🛠️ Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
@@ -74,7 +64,7 @@ I aim for tools that feel obvious once you use them.
 
 ## 🥇 Badges
 
-[![An image of @joyalgeorgekj's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/joyalgeorgekj)](https://holopin.io/@joyalgeorgekj)  
+[![An image of @joyalgeorgekj's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/joyalgeorgekj)](https://holopin.io/@joyalgeorgekj)
 [![An image of @joyalgeorgekj's Codewars badges](https://www.codewars.com/users/joyalgeorgekj/badges/large)](https://www.codewars.com/users/joyalgeorgekj)
 
 ---
@@ -87,6 +77,17 @@ I aim for tools that feel obvious once you use them.
   </a>
 </p>
 
+<!--
 ---
 
-<h3 align="center">“I build things that make sense — simple, reliable, and useful.”</h3>
+ ## 📈 GitHub Stats
+k
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=joyalgeorgekj&show_icons=true&theme=tokyonight" alt="Joyal's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joyalgeorgekj&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="joyal-george-kj" />
+</p> -->
+
+---
+
+
+<h3 align="center">“Coding is not just my skill, it’s my story.” - Joyal George K J</h3>
