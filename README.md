@@ -19,16 +19,6 @@ I read, dissect, debug, and ship clean fixes — quickly.
 
 ---
 
-## 🧩 What I Do
-
-- Build production-ready UIs and full-stack features  
-- Design practical system flows, not over-engineered ones  
-- Create internal tools and developer utilities  
-- Contribute to open-source projects I rely on  
-- Debug fast: understand unfamiliar logic, trace breakpoints, and fix things without drama
-
----
-
 ## 🌱 Open Source Work
 
 I contribute to projects that shape my day-to-day workflow:
