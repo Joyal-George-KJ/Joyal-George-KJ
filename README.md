@@ -1,21 +1,21 @@
 <h1 align="center">Hey 👋, I'm Joyal George K J</h1>
-<h3 align="center">Self-Taught React & Next.js Engineer | OSS Contributor | Builder of Practical Tools</h3>
+<h3 align="center">Software Engineer | JavaScript / React / Node.js | OSS Contributor | Builder of Practical Tools</h3>
 <p align="center">Looking for frontend, Typescript based roles, OSS collaborations, or freelance gigs, if you’re building something exciting, let’s connect and make it awesome together.</p>
 
 ---
 
 ## ✨ About Me
 
-I build things that solve problems. My path wasn’t linear — I learned code on my own, worked non-tech jobs to stay afloat, and kept shipping software on the side. That mix of persistence and curiosity shaped how I work today: fast, practical, and grounded in real use.
+I build things that solve problems. My path wasn’t linear, I learned code on my own, worked non-tech jobs to stay afloat, and kept shipping software on the side. That mix of persistence and curiosity shaped how I work today: fast, practical, and grounded in real use.
 
 I’m strongest when the codebase is unfamiliar and the bug is buried somewhere nobody has looked yet.  
-I read, dissect, debug, and ship clean fixes — quickly.
+I read, dissect, debug, and ship clean fixes quickly.
 
-- Focused on **React, Next.js, TypeScript**, and straightforward architectures  
+- Focused on **React, Next.js, Node.js, Typescript, Javascript**, and straightforward architectures  
 - Build tools, internal apps, and full-stack projects that prioritize clarity over complexity  
 - Developed and published **NPM packages** used in real workflows  
 - Shipped small but useful tools at workplaces (like a pump-sales calculator)  
-- Worked non-tech jobs while rebuilding my career in software — the grit stayed, and so did the momentum
+- Worked non-tech jobs while rebuilding my career in software - the grit stayed, and so did the momentum
 
 ---
 
