@@ -35,7 +35,7 @@ Open source is where I sharpen my ability to read code written by many minds.
 
 ## 🛠️ Tech Stack
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -58,8 +58,10 @@ Open source is where I sharpen my ability to read code written by many minds.
 
 ## 🥇 Badges
 
-[![An image of @joyalgeorgekj's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/joyalgeorgekj)](https://holopin.io/@joyalgeorgekj)
-[![An image of @joyalgeorgekj's Codewars badges](https://www.codewars.com/users/joyalgeorgekj/badges/large)](https://www.codewars.com/users/joyalgeorgekj)
+<p align="center">
+  <a href="https://holopin.io/@joyalgeorgekj"><img alt="An image of @joyalgeorgekj's Holopin badges, which is a link to view their full Holopin profile" src="https://holopin.me/joyalgeorgekj" > </a>
+  <a href="https://www.codewars.com/users/joyalgeorgekj"><img alt="An image of @joyalgeorgekj's Codewars badges" src="https://www.codewars.com/users/joyalgeorgekj/badges/large" > </a>
+</p>
 
 ---
 
