@@ -69,7 +69,7 @@ Open source is where I sharpen my ability to read code written by many minds.
 
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31d7veximtzg7v4ya6kipwrjjpgm&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31kygjcfrjkxm2qd3gh7vjsermga&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=53b14f&bar_color_cover=false">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31d7veximtzg7v4ya6kipwrjjpgm&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=53b14f&bar_color_cover=false">
   </a>
 </p>
 
