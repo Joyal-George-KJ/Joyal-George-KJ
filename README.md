@@ -1,57 +1,70 @@
 <h1 align="center">Hey 👋, I'm Joyal George K J</h1>
 <h3 align="center">Software Engineer | JavaScript / React / Node.js | OSS Contributor | Builder of Practical Tools</h3>
-<p align="center">Looking for frontend, Typescript based roles, OSS collaborations, or freelance gigs, if you’re building something exciting, let’s connect and make it awesome together.</p>
+<p align="center">Looking for frontend and TypeScript-focused roles, open-source collaborations, or freelance opportunities. If you are building something exciting, let's connect and make it awesome together!</p>
 
 ---
 
 ## ✨ About Me
 
-I build things that solve problems. My path wasn’t linear, I learned code on my own, worked non-tech jobs to stay afloat, and kept shipping software on the side. That mix of persistence and curiosity shaped how I work today: fast, practical, and grounded in real use.
+I build practical, highly performant tools that solve real-world problems. My path to software engineering wasn't linear: I taught myself to code, worked non-tech jobs to support my journey, and consistently shipped software on the side. That unique mix of persistence and curiosity shaped my engineering philosophy today: move fast, focus on practicality, and ground designs in real use.
 
-I’m strongest when the codebase is unfamiliar and the bug is buried somewhere nobody has looked yet.  
-I read, dissect, debug, and ship clean fixes quickly.
+### Core Strengths:
+- **Rapid Onboarding:** I excel when dropped into large, unfamiliar codebases. I read, dissect, debug, and ship clean fixes quickly.
+- **Deep Debugging:** I enjoy finding and resolving the bugs that are buried deep where others might not think to look.
+- **Pragmatic Architecture:** I prioritize clarity, maintainability, and standard-library simplicity over unnecessary abstraction.
 
-- Focused on **React, Next.js, Node.js, Typescript, Javascript**, and straightforward architectures  
-- Build tools, internal apps, and full-stack projects that prioritize clarity over complexity  
-- Developed and published **NPM packages** used in real workflows  
-- Shipped small but useful tools at workplaces (like a pump-sales calculator)  
-- Worked non-tech jobs while rebuilding my career in software - the grit stayed, and so did the momentum
+### Key Highlights:
+- Focused on **React, Next.js, Node.js, TypeScript**, and straightforward architectures.
+- Developed and published **NPM packages** used in active workflows.
+- Shipped practical utility tools in workplace environments (such as a custom fuel/pump-sales calculator).
+- Maintained a high-grit, high-momentum work ethic forged during my career transition.
 
 ---
 
 ## 🌱 Open Source Work
 
-I contribute to projects that shape my day-to-day workflow:
+I actively contribute to projects that shape my daily development workflows. It is where I sharpen my ability to read and understand code written by diverse engineering minds:
 
 - **Appwrite** — console, docs, and ecosystem improvements  
 - **Docker Docs & BuildKit** — documentation fixes and contributions around dev experience  
 - **React Bits** — patterns, examples, and refinements  
 - **Self.so** — cleanup and enhancements  
-- Plus many small contributions across projects I use
-
-Open source is where I sharpen my ability to read code written by many minds.
+- *Plus various micro-contributions across the open-source ecosystem.*
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" />
-  <img src="https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=Playwright&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+### Languages & Core Tech
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+</p>
+
+### Frontend Frameworks & Libraries
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+</p>
+
+### Backend, Databases & Infrastructure
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white" alt="Appwrite" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" alt="Docker" />
+</p>
+
+### Tooling & Testing
+<p align="left">
+  <img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" alt="Jest" />
+  <img src="https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=Playwright&logoColor=white" alt="Playwright" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
 
 ---
@@ -86,4 +99,7 @@ k
 ---
 
 
-<h3 align="center">“Coding is not just my skill, it’s my story.” - Joyal George K J</h3>
+<h3 align="center">
+  <strong>“Coding is not just my skill, it’s my story.”</strong>
+  <em>— Joyal George K J</em>
+</h3>
